@@ -1,0 +1,7 @@
+# Minimum height to trigger the parachute
+min-fall-height: 5.0
+
+# Whether a permission is required to use the parachute
+use-permission: true
+
+# The permission node is: parachute.use
